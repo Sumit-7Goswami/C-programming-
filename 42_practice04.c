@@ -1,0 +1,1 @@
+// write a program to implement question 41 in while loop and do-while loop .
